@@ -306,3 +306,8 @@ Therefore, AI models should be evaluated using practical application-specific ex
 **Completed**
 
 Week 1 documentation, research and practical AI experiments were completed successfully.
+
+
+## Git Practice
+
+Learning Git and GitHub practically.
